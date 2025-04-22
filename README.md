@@ -1,6 +1,6 @@
 # Capital City Time API
 
-This is a simple Flask API created for a class assignment. It provides the current time and UTC offset for specified capital cities, protected by token-based authentication.
+This is a simple Flask API. It provides the current time and UTC offset for specified capital cities, protected by token-based authentication.
 
 ## Base URL
 
